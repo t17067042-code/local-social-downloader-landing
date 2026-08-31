@@ -1,0 +1,60 @@
+=== EMAIL SEQUENCE (honest, no fake urgency) ===
+
+EMAIL 1 — Immediate after lead magnet download
+Subject: Your 5 Python scripts + a quick note
+
+Hi,
+
+Here’s the PDF with the 5 practical scripts:
+
+1. File organizer by extension
+2. Batch image renamer
+3. CSV content tracker
+4. Duplicate finder
+5. Media metadata helper
+
+They are minimal on purpose so you can adapt them.
+
+If you ever need a local step for supported Instagram / TikTok / Pinterest media inside your own scripts, I built a small tool for that:
+
+Local Social Media Downloader PRO — $10 one-time
+https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+No pressure. The scripts above work on their own.
+
+Anton Glaser
+DigitalToolsStudios
+
+---
+
+EMAIL 2 — Day 2/3
+Subject: How local media steps fit into a real pipeline
+
+Quick example of the friction I kept hitting:
+
+Browser → online downloader site → download → move file → next script step
+
+A local utility removes the middle hops for the cases it supports.
+
+If that pattern matches how you work, the tool is here:
+https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+Happy to answer technical questions.
+
+Anton
+
+---
+
+EMAIL 3 — Day 5–7 (only if real discount exists in Gumroad)
+Subject: Local Social Media Downloader PRO
+
+Just a reminder that the tool is available as a $10 ZIP.
+
+If you want to test it first, reply and I can send a complimentary copy for honest feedback (positive or critical).
+
+Product: https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+Anton Glaser
+DigitalToolsStudios
+
+(Note: Do NOT claim 20% off or limited-time unless you create it in Gumroad first.)
