@@ -1,0 +1,37 @@
+=== 7 X/Twitter post drafts (publish from your account) ===
+
+1. TECHNICAL
+Built a small local Python utility for supported Instagram / TikTok / Pinterest media workflows.
+Runs on your machine, fits into existing scripts, no cloud upload of the media for the core path.
+$10 ZIP · details: https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+Landing: https://t17067042-code.github.io/local-social-downloader-landing/
+
+2. PRICE
+Local Social Media Downloader PRO v1.2 — $10 one-time.
+Python tool for developers & creators who want local media steps instead of another online downloader site.
+https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+3. STORY
+I kept pasting URLs into random online downloaders just to get one file into a local folder for a script.
+So I made a small local Python tool instead.
+https://dev.to/an_gl_7b77ce27fd5da657412/why-i-built-a-local-python-tool-instead-of-another-online-downloader-2h4c
+
+4. COMPARISON
+Online downloader site → paste → wait → download → move file
+Local Python utility → call from script → file lands where you need it
+Different trade-offs. I preferred the second for my pipelines.
+https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+5. DEMO / POINTER
+Technical notes + example shape:
+https://dev.to/an_gl_7b77ce27fd5da657412/how-to-work-with-instagram-tiktok-pinterest-media-locally-with-python-4oko
+Product: https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+6. REVIEW / FEEDBACK
+If you try the tool, honest feedback (including criticism) is more useful than a forced positive review.
+Complimentary copies available for relevant creators who want to test.
+https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+
+7. CTA
+Local Social Media Downloader PRO — lightweight Python utility for supported social-media media workflows.
+$10 · 100% local design · https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader

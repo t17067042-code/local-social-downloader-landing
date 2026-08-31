@@ -1,0 +1,116 @@
+Название,URL,Категория,Бесплатно/платно,Способ отправки,Требуется аккаунт,Требуется email,Требуется backlink,Дата отправки,Статус,URL публикации,Подтверждение,Примечания
+GitHub Pages Landing,https://t17067042-code.github.io/local-social-downloader-landing/,Own,Бесплатно,Deploy,Нет,Нет,Нет,2026-08-31,ОПУБЛИКОВАН,https://t17067042-code.github.io/local-social-downloader-landing/,HTTP 200,Dark theme #00d4aa
+Dev.to Article,https://dev.to/an_gl_7b77ce27fd5da657412/how-to-work-with-instagram-tiktok-pinterest-media-locally-with-python-4oko,Technical Blog,Бесплатно,API,Да,Да,Нет,2026-08-31,ОПУБЛИКОВАН,https://dev.to/an_gl_7b77ce27fd5da657412/how-to-work-with-instagram-tiktok-pinterest-media-locally-with-python-4oko,API success,Technical + product note
+Gumroad Product,https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader,Product,Платно $10,Existing,Да,Да,Нет,,LIVE,https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader,,Main sales page
+DevHunt,https://devhunt.org,Developer Tools,Бесплатно,GitHub auth / form,Да,Да,Возможно,,НАЙДЕН,,,Dev-focused launch
+StackShare,https://stackshare.io,Developer Tools,Бесплатно,Submit form,Да,Да,Нет,,НАЙДЕН,,,Stack comparisons
+AlternativeTo,https://alternativeto.net,Software Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,Alternatives traffic
+SaaSHub,https://saashub.com,SaaS Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,Alternatives pages
+SourceForge,https://sourceforge.net,Software Directory,Бесплатно,Create project,Да,Да,Нет,,НАЙДЕН,,,Dev software
+Product Hunt,https://www.producthunt.com,Launch,Бесплатно,Launch form,Да,Да,Нет,,НАЙДЕН,,,Requires careful launch day
+Hacker News Show HN,https://news.ycombinator.com,Community,Бесплатно,Post,Да,Нет,Нет,,ПОДГОТОВЛЕН,,,Draft ready
+BetaList,https://betalist.com,Startup,Freemium,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Indie Hackers,https://www.indiehackers.com,Community,Бесплатно,Post / product,Да,Да,Нет,,НАЙДЕН,,,
+PitchWall,https://pitchwall.co,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Uneed,https://uneed.best,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+ToolDirs,https://tooldirs.com,Directory,Бесплатно,Submit form,Да,Да,Нет,,НАЙДЕН,,,Min 500 chars description
+TheSaaSDir,https://thesaasdir.com,SaaS Directory,Бесплатно,Submit,Да,Да,Badge exchange,,НАЙДЕН,,,Dev tools category
+r/SideProject,https://reddit.com/r/SideProject,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Check rules first
+r/Python,https://reddit.com/r/Python,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Technical only
+r/selfhosted,https://reddit.com/r/selfhosted,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Local-first angle
+r/Entrepreneur,https://reddit.com/r/Entrepreneur,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Story angle
+Hashnode,https://hashnode.com,Technical Blog,Бесплатно,Publish,Да,Да,Нет,,НАЙДЕН,,,Can cross-post
+Lobsters,https://lobste.rs,Community,Бесплатно,Post,Да (invite),Нет,Нет,,НАЙДЕН,,,Invite-only
+Awesome lists (GitHub),various awesome-*,Python / Dev,Бесплатно,PR,Да,Нет,Нет,,НАЙДЕН,,,Relevant lists only
+Python Package Index (if applicable),https://pypi.org,Python,Бесплатно,Upload,Да,Да,Нет,,ПРОПУЩЕН,,,Not open-source package yet
+SaaSCity,https://saascity.io,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+OpenAlternative,https://openalternative.co,Alternatives,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+TinyLaunch,https://tinylaunch.net,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Microlaunch,https://microlaunch.net,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Fazier,https://fazier.com,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Firsto,https://firsto.co,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Hunt0,https://hunt0.com,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+ToolFame,https://toolfame.com,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+TwelveTools,https://twelvetools.com,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+IndieTools,https://indietools.com,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+NoCodeList,https://nocodelist.co,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,Less relevant
+FindlyTools,https://findly.tools,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Peerlist,https://peerlist.io,Community,Бесплатно,Profile / launch,Да,Да,Нет,,НАЙДЕН,,,
+Go-Publicly,https://www.go-publicly.com,Launch,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+ProductWatch,https://productwatch.io,Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Crunchbase,https://www.crunchbase.com,Startup,Freemium,Claim / add,Да,Да,Нет,,НАЙДЕН,,,Company profile
+G2,https://www.g2.com,Reviews,Бесплатно,Claim product,Да,Да,Нет,,НАЙДЕН,,,Review platform
+Capterra,https://www.capterra.com,Reviews,Бесплатно,List,Да,Да,Нет,,НАЙДЕН,,,
+There's An AI For That,https://theresanaiforthat.com,AI Directory,Freemium,Submit,Да,Да,Нет,,НАЙДЕН,,,Not pure AI
+Futurepedia,https://www.futurepedia.io,AI Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Toolify.ai,https://www.toolify.ai,AI Directory,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Startup Ranking,https://www.startupranking.com,Startup,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Startup Stash,https://startupstash.com,Directory,Платно,Submit,Да,Да,Нет,,НАЙДЕН,,,Paid
+SideProjectors,https://www.sideprojectors.com,Side projects,Бесплатно,List,Да,Да,Нет,,НАЙДЕН,,,
+Brownbook,https://www.brownbook.net,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Webwiki,https://www.webwiki.com,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Viesearch,https://www.viesearch.com,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+ExactSeek,https://www.exactseek.com,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+sitelike.org,https://www.sitelike.org,Software,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Sprout24,https://sprout24.com,Startup,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Addon Biz,various,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Active Search Results,various,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Callupcontact,various,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Webrazzi,https://webrazzi.com,Media,Бесплатно,PR,Да,Да,Нет,,НАЙДЕН,,,Turkish tech media
+Alternative.me,https://alternative.me,Software,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+HotVsNot,various,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Submission Web Directory,various,General,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+AI Tools Directory,various,AI,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Future Tools,https://www.futuretools.io,AI,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Dev Resources,various,Dev,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+API List,various,API,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,Not API product
+Free for Dev (GitHub),https://github.com/ripienaar/free-for-dev,Dev,Бесплатно,PR,Да,Нет,Нет,,НАЙДЕН,,,If has free tier
+Awesome Python,https://github.com/vinta/awesome-python,Python,Бесплатно,PR,Да,Нет,Нет,,НАЙДЕН,,,Check relevance carefully
+Awesome Selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,Selfhosted,Бесплатно,PR,Да,Нет,Нет,,НАЙДЕН,,,Local tool angle
+r/beermoney,https://reddit.com/r/beermoney,Reddit,Бесплатно,Post,Да,Нет,Нет,,ПРОПУЩЕН,,,Rules may forbid promotion
+Python Weekly / newsletters,various,Newsletter,Бесплатно,Editorial,Да,Да,Нет,,НАЙДЕН,,,Need contact research
+Pycoder's Weekly,various,Newsletter,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Real Python,https://realpython.com,Python Blog,Бесплатно,Guest / mention,Да,Да,Нет,,НАЙДЕН,,,High bar
+Talk Python,various,Podcast,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,
+Python Bytes,various,Podcast,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,
+Changelog,https://changelog.com,Podcast / News,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Makerlog,various,Community,Бесплатно,Share,Да,Да,Нет,,НАЙДЕН,,,
+Discord maker servers,various,Community,Бесплатно,Share,Да,Нет,Нет,,НАЙДЕН,,,Rules vary
+X / Twitter,own account,Social,Бесплатно,Post,Да,Нет,Нет,,ПОДГОТОВЛЕН,,,7 posts drafted in plan
+Hashnode cross-post,https://hashnode.com,Blog,Бесплатно,Publish,Да,Да,Нет,,НАЙДЕН,,,
+Medium,https://medium.com,Blog,Бесплатно,Publish,Да,Да,Нет,,НАЙДЕН,,,
+LinkedIn,own,Social,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Professional angle
+Reddit r/SaaS,https://reddit.com/r/SaaS,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Check rules
+r/indiehackers,https://reddit.com/r/indiehackers,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+r/startups,https://reddit.com/r/startups,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+r/PythonProjects2,https://reddit.com/r/PythonProjects2,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+r/learnpython,https://reddit.com/r/learnpython,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,Educational only
+r/automation,https://reddit.com/r/automation,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+r/selfhosted + local-first,various,Privacy,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+Privacy tools directories,various,Privacy,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,Local-first angle
+Creator tools newsletters,various,Creator,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,Need research
+SMM communities,various,SMM,Бесплатно,Share,Да,Нет,Нет,,НАЙДЕН,,,Careful with promo rules
+Productivity directories,various,Productivity,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Workflow / automation directories,various,Automation,Бесплатно,Submit,Да,Да,Нет,,НАЙДЕН,,,
+Local-first software lists,various,Privacy,Бесплатно,PR / submit,Да,Нет,Нет,,НАЙДЕН,,,Strong fit
+GitHub Topics,github.com/topics,GitHub,Бесплатно,Repo topics,Нет,Нет,Нет,,НАЙДЕН,,,Add topics to repo
+Reddit r/tools,https://reddit.com/r/tools,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,
+r/InternetIsBeautiful,https://reddit.com/r/InternetIsBeautiful,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,If fits
+r/coolgithubprojects,https://reddit.com/r/coolgithubprojects,Reddit,Бесплатно,Post,Да,Нет,Нет,,НАЙДЕН,,,If open source
+r/opensource,https://reddit.com/r/opensource,Reddit,Бесплатно,Post,Да,Нет,Нет,,ПРОПУЩЕН,,,Not open source
+Dev.to tags / series,dev.to,Blog,Бесплатно,Continue,Да,Да,Нет,,ОПУБЛИКОВАН,,,First article done
+Show HN draft,news.ycombinator.com,Community,Бесплатно,Post,Да,Нет,Нет,,ПОДГОТОВЛЕН,,,Ready for timing
+Vercel deploy attempt,vercel.app,Hosting,Бесплатно,API,Да,Да,Нет,2026-08-31,BLOCKED — SSO,preview URL,SSO required,Hobby limited account
+Netlify,netlify.com,Hosting,Бесплатно,CLI / API,Да,Да,Нет,,НАЙДЕН,,,Connected possible
+Cloudflare Pages,pages.cloudflare.com,Hosting,Бесплатно,CLI,Да,Да,Нет,,НАЙДЕН,,,
+ShipStatic / others,various,Hosting,Бесплатно,Upload,Да,Да,Нет,,НАЙДЕН,,,
+Gumroad webhook setup,gumroad.com,Automation,Бесплатно,Dashboard,Да,Да,Нет,,НАЙДЕН,,,Future
+Lead magnet PDF,own,Lead,Бесплатно,Create,Нет,Нет,Нет,,ПОДГОТОВЛЕН,,,5 Python Scripts plan
+Email funnel,own,Email,Бесплатно,Prepare,Да,Да,Нет,,ПОДГОТОВЛЕН,,,3 emails drafted in plan
+Micro-influencer list,various,Outreach,Бесплатно,Research,Нет,Да,Нет,,НАЙДЕН,,,Need 100+ public contacts research next
+Python newsletters list,various,Newsletter,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,Research contacts
+Creator newsletters,various,Newsletter,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,
+Privacy newsletters,various,Newsletter,Бесплатно,Pitch,Да,Да,Нет,,НАЙДЕН,,,
+X posts (7 variants),x.com,Social,Бесплатно,Post,Да,Нет,Нет,,ПОДГОТОВЛЕН,,,Drafts ready
+Reddit posts unique,reddit.com,Community,Бесплатно,Post after rules check,Да,Нет,Нет,,ПОДГОТОВЛЕН,,,Per subreddit angle
+DO NOT CONTACT list,own,Safety,—,Maintain,Нет,Нет,Нет,,СОЗДАН,,,Empty initially

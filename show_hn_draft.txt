@@ -1,0 +1,42 @@
+Show HN: I built a small local Python tool for social-media media workflows
+
+I kept running into the same friction: when I needed a piece of media from Instagram, TikTok or Pinterest for a local script or content pipeline, I ended up opening browser tabs, pasting into online downloader sites, waiting, downloading, and then moving the file into the folder my automation expected.
+
+So I built a small local utility instead.
+
+Local Social Media Downloader PRO is a lightweight Python tool oriented around supported workflows for those three platforms. It is meant to sit inside an existing local script or CLI pipeline rather than become another SaaS you log into.
+
+What I cared about:
+
+- Local execution (media stays on the machine for the core path)
+- Small enough to understand and drop into other scripts
+- Clear documentation of what URL patterns are supported and what is not
+- Honest handling of errors and cancellation
+
+Architecture is deliberately simple: URL intake → resolution of a supported media resource → download to a configurable directory. Exact supported patterns and CLI flags are in the package README.
+
+What was harder than expected:
+
+- Platform URL shapes and response formats change
+- Keeping the dependency surface small while still being usable
+- Writing the legal / ToS / copyright notes so users do not treat the tool as permission
+
+What I would improve next:
+
+- Better progress reporting for concurrent jobs
+- Clearer separation between “supported public workflow” and anything that would require auth
+- More examples of embedding the tool in a larger local pipeline
+
+I am looking for feedback from people who actually do this kind of local media work:
+
+- Does the local-first angle matter to you?
+- What edge cases break first in your environment?
+- Would you rather have a pure library, a CLI, or both?
+
+It is currently $10 as a downloadable ZIP (v1.2).
+
+Product: https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+Landing: https://t17067042-code.github.io/local-social-downloader-landing/
+Article with more technical notes: https://dev.to/an_gl_7b77ce27fd5da657412/how-to-work-with-instagram-tiktok-pinterest-media-locally-with-python-4oko
+
+Happy to answer technical questions or send a complimentary copy for honest feedback (no positive-review requirement).

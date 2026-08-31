@@ -1,0 +1,9 @@
+date,channel,platform,target,contact,action,status,url,response,traffic,sales,notes
+2026-08-31,Landing Page,GitHub Pages,own,self,deploy,OПУБЛИКОВАН,https://t17067042-code.github.io/local-social-downloader-landing/,,0,0,Dark theme green accent landing live
+2026-08-31,Article,Dev.to,own,self,publish,ОПУБЛИКОВАН,https://dev.to/an_gl_7b77ce27fd5da657412/how-to-work-with-instagram-tiktok-pinterest-media-locally-with-python-4oko,,0,0,Technical article with product mention
+2026-08-31,Product,Gumroad,own,self,existing,LIVE,https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader,,0,0,$10 product page
+2026-08-31,Article,Dev.to,own,self,publish,ОПУБЛИКОВАН,https://dev.to/an_gl_7b77ce27fd5da657412/why-i-built-a-local-python-tool-instead-of-another-online-downloader-2h4c,,0,0,Second technical/story article
+2026-08-31,Lead Magnet,PDF,own,self,create,ГОТОВ,/home/workdir/artifacts/5_Python_Scripts_Every_Creator_Needs.pdf,,0,0,5 practical Python scripts
+2026-08-31,X drafts,X,own,self,prepare,ПОДГОТОВЛЕН,/home/workdir/artifacts/x_posts_drafts.txt,,0,0,7 unique posts ready
+2026-08-31,Show HN,Hacker News,own,self,prepare,ПОДГОТОВЛЕН,/home/workdir/artifacts/show_hn_draft.txt,,0,0,Technical angle ready
+2026-08-31,Netlify site,Netlify,own,self,create,СОЗДАН site,local-social-downloader-pro.netlify.app,,0,0,Deploy needs manual/CLI finish; SSO on team
