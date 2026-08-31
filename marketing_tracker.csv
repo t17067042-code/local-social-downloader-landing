@@ -7,3 +7,6 @@ date,channel,platform,target,contact,action,status,url,response,traffic,sales,no
 2026-08-31,X drafts,X,own,self,prepare,ПОДГОТОВЛЕН,/home/workdir/artifacts/x_posts_drafts.txt,,0,0,7 unique posts ready
 2026-08-31,Show HN,Hacker News,own,self,prepare,ПОДГОТОВЛЕН,/home/workdir/artifacts/show_hn_draft.txt,,0,0,Technical angle ready
 2026-08-31,Netlify site,Netlify,own,self,create,СОЗДАН site,local-social-downloader-pro.netlify.app,,0,0,Deploy needs manual/CLI finish; SSO on team
+2026-08-31,Article,Dev.to,own,self,publish,ОПУБЛИКОВАН,https://dev.to/an_gl_7b77ce27fd5da657412/local-vs-online-social-media-downloaders-what-actually-matters-for-developers-50f8,,0,0,Third article comparison
+2026-08-31,Lead Magnet,PDF,own,self,create,ГОТОВ,Quick_Start_Local_Social_Downloader.pdf,,0,0,Quick start guide
+2026-08-31,Email sequence,own,own,prepare,ПОДГОТОВЛЕН,email_sequences.txt,,0,0,3-email funnel ready

@@ -1,0 +1,41 @@
+=== PRODUCT HUNT LAUNCH MATERIALS ===
+
+Tagline (60 chars max):
+Local Python tool for Instagram, TikTok & Pinterest workflows
+
+Description:
+A lightweight local Python utility designed for developers and creators who want to embed supported social-media media steps into their own scripts instead of using online downloader sites.
+
+Key features (honest):
+• 100% local execution for the core workflow
+• Oriented around supported Instagram, TikTok, Pinterest patterns
+• Fits into existing local scripts and automation
+• One-time $10 ZIP (no subscription)
+• Clear documentation of supported vs unsupported cases
+
+First comment (maker):
+Hey Product Hunt 👋
+
+I built Local Social Media Downloader PRO because I kept losing time pasting URLs into online downloaders just to get a file into a local folder for the next script step.
+
+It is a small local Python tool. Not a SaaS, not a bulk scraper, not a ToS-bypass product.
+
+What it tries to do well:
+- Stay local
+- Stay small
+- Document what it supports
+- Fail clearly when something is not supported
+
+Legal note: always respect platform Terms of Service and copyright. Use only with content you have rights to process.
+
+Happy to answer any technical questions. Complimentary copies available for honest feedback.
+
+Links:
+Product: https://digitaltoolsstudios.gumroad.com/l/localsocialdownloader
+Landing: https://t17067042-code.github.io/local-social-downloader-landing/
+Technical write-ups on Dev.to (search my profile)
+
+Topics / categories:
+Developer Tools, Productivity, Open Source (if applicable), Mac, Windows, Linux
+
+Launch tip: schedule for Tuesday or Wednesday, US morning, mobilize real network only, no vote manipulation.
