@@ -11,3 +11,7 @@ date,channel,platform,target,contact,action,status,url,response,traffic,sales,no
 2026-08-31,Lead Magnet,PDF,own,self,create,ГОТОВ,Quick_Start_Local_Social_Downloader.pdf,,0,0,Quick start guide
 2026-08-31,Email sequence,own,own,prepare,ПОДГОТОВЛЕН,email_sequences.txt,,0,0,3-email funnel ready
 2026-10-04,Article,GitHub Pages,own,self,publish,PUBLISHED,https://t17067042-code.github.io/local-social-downloader-landing/rights-checks-and-retries.html,,0,0,Rights checks retries folder layout; no sales claimed
+2026-10-07,Article,GitHub Pages,own,self,publish,PUBLISHED,https://t17067042-code.github.io/local-social-downloader-landing/output-receipt.html,,0,0,Receipt sidecar note committed c0686c4; no sales claimed
+2026-10-07,Landing link,GitHub Pages,own,self,update,PUBLISHED,https://t17067042-code.github.io/local-social-downloader-landing/,,0,0,Resources list links output-receipt.html commit b902744
+2026-10-07,Directories,research,public pages,none,research,NOT SUBMITTED,,no login,0,0,LaunchIgniter OpenHunts StackLedge IndieNeed noted; forms need accounts
+2026-10-07,Outreach,local pack,own,self,prepare,PREPARED,outreach_pack_2026-10-07.md,,0,0,Copy ready; nothing emailed or form-submitted
